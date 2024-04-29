@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Esac-86
 
-<!--
-**Alvatech943/Alvatech943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+- 🌱 Soy un desarrollador web Full-Stack apasionado por la tecnología.
+- 💬 Estoy buscando colaborar en proyectos emocionantes donde pueda crecer profesionalmente y contribuir con otros equipos de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,astro,vue,vuetify,nodejs" />
+  </a>
+</p>
+
+## Proyectos
+
+- **Próximamente.**
+
+
+
