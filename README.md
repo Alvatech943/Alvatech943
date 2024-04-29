@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Esac-86
+# ¡Hola! 👋 Soy Alvatech
 
 ## Sobre mí
 
@@ -8,7 +8,7 @@
 ## Tecnologías
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=css,js" />
+    <img src="https://skillicons.dev/icons?i=css,js,vue,react,mysql,mongo" />
   </a>
 </p>
 
