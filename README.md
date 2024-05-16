@@ -14,7 +14,7 @@
 
 ## Proyectos
 
-- **Próximamente.**
+- **Próximamente....**
 
 
 
