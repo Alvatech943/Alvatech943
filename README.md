@@ -8,7 +8,7 @@
 ## Tecnologías
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,vite,mongo,mysql,php,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,mongo,mysql,php,nodejs,express,tailwind,vite," />
   </a>
 </p>
 
